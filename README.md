@@ -34,13 +34,5 @@
   <br>
   
   
-
-⏳ Year progress { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 19.39 %
-
----
-
-
-![Progress Bar CI](https://github.com/kauazao0o/kauazao0o/workflows/Progress%20Bar%20CI/badge.svg)
-  
 </div>
  
