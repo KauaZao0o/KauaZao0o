@@ -41,7 +41,7 @@
 
 ⏰ Updated on Sun, 12 Mar 2023 18:13:01 GMT
 
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+![Progress Bar CI](https://github.com/kauazao0o/kauazao0o/workflows/Progress%20Bar%20CI/badge.svg)
   
 </div>
  
