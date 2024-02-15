@@ -3,7 +3,6 @@
 </h1>
 
 
-![KauaZao0o GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaZao0o&show_icons=true&theme=radical)
 
 <div align = "center" style="display: inline_block"><br>
   <img align="center" alt="Kaua-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
