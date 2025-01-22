@@ -20,6 +20,15 @@
     </a> 
     <a href="https://www.linkedin.com/in/user073/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
-  
-  
+</div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KauaZao0o&show_icons=true&count_private=true&hide_border=true&title_color=DB2BB7&icon_color=2CDBB5&text_color=fff&bg_color=000" alt="KauaZao0o github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaZao0o&layout=compact&hide_border=true&title_color=DB2BB7&text_color=2CDBB5&bg_color=0d1117" />
+</div>
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KauaZao0o&bg_color=000000&color=B1419A&line=2CDBB5&point=2CDBB5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
